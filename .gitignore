@@ -1,3 +1,9 @@
+# Build folder
+/build
+
+# UI design project files
+*.psd
+
 # Prerequisites
 *.d
 
