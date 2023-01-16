@@ -2,7 +2,7 @@
 
 #include "public.sdk/source/vst/vsteditcontroller.h"
 
-namespace JonasM {
+namespace DCOffsetter {
 
 //------------------------------------------------------------------------
 //  DCOffsetterController

@@ -6,7 +6,7 @@
 
 using namespace Steinberg;
 
-namespace JonasM {
+namespace DCOffsetter {
 
 //------------------------------------------------------------------------
 // DCOffsetParameter Declaration (overwriting toString and fromString)

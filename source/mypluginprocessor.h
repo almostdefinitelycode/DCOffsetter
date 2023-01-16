@@ -2,7 +2,7 @@
 
 #include "public.sdk/source/vst/vstaudioeffect.h"
 
-namespace JonasM {
+namespace DCOffsetter {
 
 //------------------------------------------------------------------------
 //  DCOffsetterProcessor

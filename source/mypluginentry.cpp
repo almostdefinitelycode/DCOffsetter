@@ -7,7 +7,7 @@
 #define stringPluginName "DCOffsetter"
 
 using namespace Steinberg::Vst;
-using namespace JonasM;
+using namespace DCOffsetter;
 
 //------------------------------------------------------------------------
 //  VST Plugin Entry

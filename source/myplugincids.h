@@ -3,7 +3,7 @@
 #include "pluginterfaces/base/funknown.h"
 #include "pluginterfaces/vst/vsttypes.h"
 
-namespace JonasM {
+namespace DCOffsetter {
 
 enum MyParams : Steinberg::Vst::ParamID {
     kParamDCOffsetId = 102,
